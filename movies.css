@@ -1,3 +1,4 @@
+
 *{
     box-sizing: border-box;
 
@@ -11,8 +12,11 @@ h3{
 }
 .topnav{
     overflow: hidden;
-    background-color: inherit;
+    background-color: rgb(70, 52, 52);
     padding: 18px;
+    position: fixed;
+    width: 100%;
+    margin-top: -1%;
 }
 .topnav a {
     float: left;
